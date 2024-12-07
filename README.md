@@ -24,4 +24,4 @@ Proyek sederhana untuk mempelajari pembuatan Website, aplikasi yang dibuat merup
 
 Jika anda memiliki pertanyaan, silahkan hubungi:
 - **Email**: tegarputus@gmail.com
-- **GitHub**: tgarputust
+- **GitHub**: tgarputustr
