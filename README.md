@@ -19,3 +19,9 @@ Proyek sederhana untuk mempelajari pembuatan Website, aplikasi yang dibuat merup
 1. **Permintaan API dengan Axios**: Mengambil data dari server menggunakan library Axios
 2. **Manajemen State Dasar**: Mengelola data yang diterima API dan menampilkannya di komponen.
 3. **Struktur komponen**: Membuat komponen yang terorganisir dan reusable. 
+
+## Kontak
+
+Jika anda memiliki pertanyaan, silahkan hubungi:
+- **Email**: tegarputus@gmail.com
+- **GitHub**: tgarputust
